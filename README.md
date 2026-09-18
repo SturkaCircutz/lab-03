@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Jiawen Sun
+- **CCID:** jsun25
 
 ## References and Resources
 
